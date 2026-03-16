@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Costanza Pizzi
 
-<!--
-**pizzicostanza2000-hub/pizzicostanza2000-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Science graduate with a background in Big Data Analytics and Artificial Intelligence.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- SQL
+- Pandas
+- NumPy
+- Machine Learning
+- Data Analysis
+- Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- House Price Prediction
+- Customer Churn Analysis
+- Sales Data Dashboard
+
+## Contact
+- LinkedIn: http://linkedin.com/in/cost%20anza-pizzi-3785072a9
+- Email: pizzi.costanza2000@gmail.com
